@@ -1,4 +1,4 @@
-package test.lesson02;
+package homework.lesson02;
 
 /*
 Ввести с клавиатуры число n. Вывести на экран надпись «Я зарабатываю $n в час».
@@ -11,13 +11,12 @@ package test.lesson02;
 Пример: Alex будет получать 4000 через 5 лет.
 */
 
-import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class BufferedReader {
     public static void main(String[] args) throws IOException {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        java.io.BufferedReader reader = new java.io.BufferedReader(new InputStreamReader(System.in));
         String name = reader.readLine();
         String amount = reader.readLine();
         String year = reader.readLine();

@@ -5,7 +5,7 @@ import java.io.File;
 public class RenameFiles {
     public static void main(String[] args) {
         // Указываем путь к директории с файлами
-        File directory = new File("C:/Users/user/Desktop/files");
+        File directory = new File("D:\\");
 
         // Получаем список файлов в директории
         File[] files = directory.listFiles();
