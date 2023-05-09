@@ -1,4 +1,4 @@
-package homework.lesson02;
+package homework.lesson2;
 
 /*
 Ввести с клавиатуры число n. Вывести на экран надпись «Я зарабатываю $n в час».
