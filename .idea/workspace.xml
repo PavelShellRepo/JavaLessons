@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5744c2-9e9c-49c6-a732-e73bf86fb98c" name="Changes" comment="Lesson 7 complete">
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson10/NumberSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson10/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson10/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson10/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson10/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson10/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson10/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson10/Task7.java" afterDir="false" />
+    <list default="true" id="9f5744c2-9e9c-49c6-a732-e73bf86fb98c" name="Changes" comment="Lesson 10 complete">
       <change afterPath="$PROJECT_DIR$/src/homework/lesson10/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson8/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson8/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson8/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson9/GenericBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson9/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson9/example/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson9/example/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson9/model/BaseObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson9/model/ChildObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/lesson9/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/Lesson6/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/Lesson6/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/lesson10/NumberSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/lesson10/NumberSorter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +55,7 @@
       <recent name="C:\Users\ps063\Desktop\JAVA 1-6\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberSorter">
+  <component name="RunManager" selected="Application.Task8">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.lesson10.Main" />
       <module name="JAVA 1-6" />
@@ -89,19 +71,6 @@
     </configuration>
     <configuration name="NumberSorter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.lesson10.NumberSorter" />
-      <module name="JAVA 1-6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.lesson10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.lesson10.Task5" />
       <module name="JAVA 1-6" />
       <extension name="coverage">
         <pattern>
@@ -139,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.lesson10.Task8" />
+      <module name="JAVA 1-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.lesson10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task8" />
         <item itemvalue="Application.NumberSorter" />
         <item itemvalue="Application.Task7" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task5" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683661616646</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson 10 complete">
+      <created>1683942221899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683942221899</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +230,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 4 complete" />
     <MESSAGE value="Lesson 7 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 7 complete" />
+    <MESSAGE value="Lesson 10 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 10 complete" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

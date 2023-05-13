@@ -28,7 +28,7 @@ public class NumberSorter {
 
     public void inputNumbers() {
         Scanner scanner = new Scanner(System.in);
-        for (int i = 0; i < 6; i++) {
+        for (int i = 0; i < 10; i++) {
             System.out.print("Enter a number: ");
             int num = scanner.nextInt();
             mainList.add(num);
